@@ -1,0 +1,9 @@
+flask
+flask-cors
+google-generativeai
+pdfplumber
+gtts
+requests
+beautifulsoup4
+python-dotenv
+werkzeug
