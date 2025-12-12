@@ -21,7 +21,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 UPLOAD_FOLDER = "uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-GOOGLE_API_KEY = "AIzaSyCTVJrw4BGCGceS4H09hf4AYK0rUVm5tT0"
+GOOGLE_API_KEY = "your_api_key_here"
 if not GOOGLE_API_KEY:
     print("⚠️ WARNING: GOOGLE_API_KEY environment variable not set.")
 else:
