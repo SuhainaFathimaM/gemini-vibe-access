@@ -28,8 +28,8 @@ else:
     genai.configure(api_key=GOOGLE_API_KEY)
 
 try:
-    model = genai.GenerativeModel("models/gemini-flash-latest")
-    #model = genai.GenerativeModel("models/gemini-3-pro")
+    # model = genai.GenerativeModel("models/gemini-flash-latest")
+    model = genai.GenerativeModel("models/gemini-3-pro")
 except Exception:
     model = None
     print("⚠️ Could not initialize model object. Ensure google.generativeai is installed and key set.")
