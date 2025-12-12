@@ -63,7 +63,7 @@ Includes:
 
 ### **AI Model**
 
-* **Gemini Flash (gemini-flash-latest)**
+* **Gemini 3 Pro (gemini-3-pro)**
   Used for text simplification & keyword extraction.
 
 ---
