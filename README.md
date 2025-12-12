@@ -13,7 +13,7 @@ A complete multi-modal accessibility tool in one platform.
 
 ### ✅ **1. Text Simplification**
 
-* Converts complex content into Grade-5 level simple text.
+* Converts complex content into simple text.
 * Maintains original meaning while improving readability.
 * Works with PDFs, TXT files, and URLs.
 
@@ -50,7 +50,6 @@ Includes:
 
 * React.js
 * TailwindCSS
-* Zustand (optional)
 * Axios
 
 ### **Backend**
